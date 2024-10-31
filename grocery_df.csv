@@ -1,0 +1,122 @@
+﻿item_id,item,quantity_sold,main_category,sub_category,product_type
+1,brandy,31,Alcohol,Spirits,Food
+2,prosecco,13,Alcohol,Wine,Food
+3,rum,36,Alcohol,Spirits,Food
+4,whisky,6,Alcohol,Spirits,Food
+5,bottled beer,567,Alcohol,Beer,Food
+6,canned beer,561,Alcohol,Beer,Food
+7,liqueur,5,Alcohol,Spirits,Food
+8,liquor,81,Alcohol,Spirits,Food
+9,liquor (appetizer),54,Alcohol,Spirits,Food
+10,red/blush wine,131,Alcohol,Wine,Food
+11,sparkling wine,44,Alcohol,Wine,Food
+12,white wine,126,Alcohol,Wine,Food
+13,bags,3,Apparel,General Bags,Non-Food
+14,shopping bags,687,Apparel,General Bags,Non-Food
+15,baby cosmetics,6,Baby Products,Baby Care Products,Non-Food
+16,baby food,1,Baby Products,Baby Nutrition,Non-Food
+17,long life bakery product,262,Bakery,Dry Bakery Goods,Food
+18,pastry,627,Bakery,Dry Bakery Goods,Food
+19,roll products ,69,Bakery,Dry Bakery Goods,Food
+20,zwieback,49,Bakery,Dry Bakery Goods,Food
+21,butter,395,Dairy,Butter,Food
+22,curd,380,Dairy,Curd,Food
+23,newspapers,560,Electronics & Media,Print,Non-Food
+24,photo/film,63,Electronics & Media,Print,Non-Food
+25,sound storage medium,1,Electronics & Media,Audio,Non-Food
+26,frankfurter,408,Frozen Foods,Frozen Meat & Seafood,Food
+27,frozen dessert,83,Frozen Foods,Dessert,Food
+28,frozen meals,195,Frozen Foods,Deli Meats,Food
+29,frozen potato products,57,Frozen Foods,Frozen Vegetable,Food
+30,frozen chicken,5,Frozen Foods,Frozen Meat & Seafood,Food
+31,frozen fish,75,Frozen Foods,Frozen Meat & Seafood,Food
+32,flower (seeds),73,Gardening,General Gardening,Non-Food
+33,pot plants,123,Gardening,General Gardening,Non-Food
+34,flower soil/fertilizer,13,Gardening,General Gardening,Non-Food
+35,dental care,36,Health & Beauty,Dental Product,Non-Food
+36,female sanitary products,43,Health & Beauty,Female Hygiene,Non-Food
+37,hair spray,7,Health & Beauty,Hair,Non-Food
+38,hygiene articles,227,Health & Beauty,Hygiene,Non-Food
+39,make up remover,6,Health & Beauty,Hygiene,Non-Food
+40,male cosmetics,35,Health & Beauty,Female Hygiene,Non-Food
+41,napkins,352,Health & Beauty,Female Hygiene,Food
+42,skin care,29,Health & Beauty,Female Hygiene,Non-Food
+43,cling film/bags,72,Household & Cleaning,Cleaning,Non-Food
+44,rubbing alcohol,5,Household & Cleaning,Household Essentials,Non-Food
+45,bathroom cleaner,21,Household & Cleaning,Household Essentials,Non-Food
+46,candles,64,Household & Cleaning,House Decoration,Non-Food
+47,cleaner,40,Household & Cleaning,Household Essentials,Non-Food
+48,cookware,22,Household & Cleaning,Kitchen Utensils,Non-Food
+49,decalcifier,14,Household & Cleaning,Household Essentials,Non-Food
+50,detergent,129,Household & Cleaning,Household Essentials,Non-Food
+51,dish cleaner,66,Household & Cleaning,Household Essentials,Non-Food
+52,dishes,136,Household & Cleaning,Kitchen Utensils,Non-Food
+53,house keeping products,56,Household & Cleaning,Household Essentials,Non-Food
+54,kitchen towels,45,Household & Cleaning,Household Essentials,Non-Food
+55,kitchen utensil,3,Household & Cleaning,Kitchen Utensils,Non-Food
+56,light bulbs,29,Household & Cleaning,House Decoration,Non-Food
+57,soap,14,Household & Cleaning,Bathroom Essentials,Non-Food
+58,softener,45,Household & Cleaning,Household Essentials,Non-Food
+59,toilet cleaner,5,Household & Cleaning,Household Essentials,Non-Food
+60,beef,367,Meat & Seafood,Butcher's Selection,Food
+61,chicken,297,Meat & Seafood,Poultry,Food
+62,fish,19,Meat & Seafood,Seafood,Food
+63,pork,411,Meat & Seafood,Butcher's Selection,Food
+64,turkey,68,Meat & Seafood,Butcher's Selection,Food
+65,beverages,177,Non-Alcoholic Drinks,General Beverages,Food
+66,bottled water,782,Non-Alcoholic Drinks,General Beverages,Food
+67,coffee,402,Non-Alcoholic Drinks,Coffee,Food
+68,instant coffee,55,Non-Alcoholic Drinks,Coffee,Food
+69,misc. beverages,204,Non-Alcoholic Drinks,General Beverages,Food
+70,tea,26,Non-Alcoholic Drinks,Tea,Food
+71,finished products,52,Other,General items,Unkown
+72,seasonal products,105,Other,General items,Unkown
+73,canned fish,107,Pantry Staples,Canned Goods,Food
+74,baking powder,121,Pantry Staples,Baking Essentials,Food
+75,domestic eggs,435,Pantry Staples,Cooking Products,Food
+76,honey,12,Pantry Staples,Cooking Products,Food
+77,liver loaf,37,Pantry Staples,Canned Goods,Food
+78,margarine,418,Pantry Staples,Baking Essentials,Food
+79,pudding powder,12,Pantry Staples,Baking Essentials,Food
+80,cake bar,88,Pantry Staples,Baked Snacks,Food
+81,cereals,44,Pantry Staples,Breakfast Cereals,Food
+82,chewing gum,151,Pantry Staples,General Pantry Staples,Food
+83,dessert,264,Pantry Staples,General Pantry Staples,Food
+84,flour,129,Pantry Staples,Cooking Products,Food
+85,Instant food products,52,Pantry Staples,Meal Kits,Food
+86,jam,32,Pantry Staples,Sauces & Condiments,Food
+87,ketchup,33,Pantry Staples,Sauces & Condiments,Food
+88,mayonnaise,60,Pantry Staples,Sauces & Condiments,Food
+89,mustard,86,Pantry Staples,Sauces & Condiments,Food
+90,nuts/prunes,27,Pantry Staples,Breakfast Cereals,Food
+91,oil,185,Pantry Staples,Cooking Products,Food
+92,organic products,10,Pantry Staples,General Pantry Staples,Food
+93,pasta,110,Pantry Staples,Cooking Products,Food
+94,potato products,23,Pantry Staples,Cooking Products,Food
+95,preservation products,2,Pantry Staples,General Pantry Staples,Food
+96,ready soups,13,Pantry Staples,Meal Kits,Food
+97,rice,61,Pantry Staples,Cooking Products,Food
+98,salad dressing,6,Pantry Staples,Sauces & Condiments,Food
+99,salt,83,Pantry Staples,Cooking Products,Food
+100,sauces,35,Pantry Staples,Sauces & Condiments,Food
+101,soups,51,Pantry Staples,Cooking Products,Food
+102,specialty bar,197,Pantry Staples,Baked Snacks,Food
+103,specialty fat,27,Pantry Staples,Cooking Products,Food
+104,spices,35,Pantry Staples,Sauces & Condiments,Food
+105,sugar,241,Pantry Staples,Sauces & Condiments,Food
+106,syrup,24,Pantry Staples,Sauces & Condiments,Food
+107,vinegar,46,Pantry Staples,Sauces & Condiments,Food
+108,nut snack,22,Pantry Staples,Breakfast Cereals,Food
+109,popcorn,53,Pantry Staples,Savory Snacks,Food
+110,salty snack,256,Pantry Staples,Savory Snacks,Food
+111,snack products,23,Pantry Staples,Savory Snacks,Food
+112,sweet spreads,61,Pantry Staples,Sauces & Condiments,Food
+113,tidbits,16,Pantry Staples,Savory Snacks,Food
+114,waffles,273,Pantry Staples,Baked Snacks,Food
+115,cat food,165,Pet Supplies,Cat Essentials,Food
+116,dog food,65,Pet Supplies,Dog Essentials,Food
+117,pet care,67,Pet Supplies,General Pet Supplies,Food
+118,berries,239,Produce,Fruits,Food
+119,grapes,154,Produce,Fruits,Food
+120,herbs,115,Produce,Herbs,Food
+121,onions,230,Produce,Vegetables,Food
